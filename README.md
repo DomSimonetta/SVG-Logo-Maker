@@ -11,7 +11,7 @@ N/A
 When typing "node index.js" into the command line you will be prompted with 4 questions that will ask what shape and color you want as well as what characters and text color you want for your logo. After you finish inputing your choices the command line should read "Generated logo.svg" and the logo.svg file will be updated to your new choices in the logo.svg file folder.
 
 ## Link 
-Here is a link to the video- 
+Here is a link to the video- https://drive.google.com/file/d/1oFlGaWZXQ0Gj-Z0nrhYUHdzgLkhhgsHp/view?usp=sharing
 
 ## Credits
 Dom Simonetta 
